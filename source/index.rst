@@ -1,17 +1,15 @@
-.. sprawko documentation master file, created by
-   sphinx-quickstart on Thu Mar 27 13:57:15 2025.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-sprawko documentation
-=====================
-
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
-
+Kopie zapasowe i odzyskiwanie danych - Dokumentacja
+===================================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Spis treści:
 
+   kopie_zapasowe_i_odzyskiwanie_danych
+
+Indeksy i tabele
+================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

@@ -1,27 +1,26 @@
-# Configuration file for the Sphinx documentation builder.
-#
-# For the full list of built-in configuration values, see the documentation:
-# https://www.sphinx-doc.org/en/master/usage/configuration.html
 
-# -- Project information -----------------------------------------------------
-# https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
+project = 'Kopie zapasowe i odzyskiwanie danych'
+copyright = '2025, Miłosz Śmieja'
+author = 'Miłosz Śmieja'
+release = '1.0'
 
-project = 'sprawko'
-copyright = '2025, MS'
-author = 'MS'
-
-# -- General configuration ---------------------------------------------------
-# https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
-
-extensions = []
+extensions = [
+    'sphinx.ext.autodoc',
+    'sphinx.ext.viewcode',
+    'sphinx.ext.napoleon',
+]
 
 templates_path = ['_templates']
 exclude_patterns = []
 
-
-
-# -- Options for HTML output -------------------------------------------------
-# https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
+language = 'pl'
 
 html_theme = 'alabaster'
-html_static_path = ['_static']
+html_static_path = []
+
+html_theme_options = {
+    'page_width': '1200px',
+    'sidebar_width': '300px',
+}
+
+html_search_language = 'pl'
