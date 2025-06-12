@@ -1,8 +1,8 @@
 
 project = 'Kopie zapasowe i odzyskiwanie danych'
-copyright = '2025, Miłosz Śmieja'
-author = 'Miłosz Śmieja'
-release = '1.0'
+copyright = '2025, 280689'
+author = '280689'
+
 
 extensions = [
     'sphinx.ext.autodoc',
