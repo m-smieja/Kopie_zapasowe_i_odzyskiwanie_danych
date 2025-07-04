@@ -2,7 +2,7 @@
 Kopie zapasowe i odzyskiwanie danych w PostgreSQL
 =====================================================================
 
-:Autorzy: 280689, 280707, 280692
+:Autorzy: Miłosz Śmieja
 
 .. .. contents:: Spis treści
 ..   :depth: 3
