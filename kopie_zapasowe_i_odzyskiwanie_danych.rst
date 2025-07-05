@@ -2,7 +2,7 @@
 Kopie zapasowe i odzyskiwanie danych w PostgreSQL
 =====================================================================
 
-:Autorzy: Miłosz Śmieja
+:Autorzy: Miłosz Śmieja Szymon Piskorz Mateusz Wasilewicz
 
 .. .. contents:: Spis treści
 ..   :depth: 3

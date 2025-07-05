@@ -1,7 +1,7 @@
 
 project = 'Kopie zapasowe i odzyskiwanie danych'
-copyright = '2025, Miłosz Śmieja'
-author = 'Miłosz Śmieja'
+copyright = '2025, Miłosz Śmieja, Szymon Piskorz, Mateusz Wasilewicz'
+author = 'Miłosz Śmieja, Szymon Piskorz, Mateusz Wasilewicz'
 
 
 extensions = [
